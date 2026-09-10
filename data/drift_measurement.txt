@@ -1,0 +1,13 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.13)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Hands off the controller. Sampling for 5s...
+
+831 samples
+
+Axis 0 (Left X  ): peak drift = 0.051
+Axis 1 (Left Y  ): peak drift = 0.012
+Axis 2 (Right X ): peak drift = 0.020
+Axis 3 (Right Y ): peak drift = 0.020
+
+Worst-case drift: 0.051
+Suggested deadzone: 0.08
